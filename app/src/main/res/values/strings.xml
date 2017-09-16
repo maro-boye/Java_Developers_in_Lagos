@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java Developers in Lagos</string>
+    <string name="connection">No internet detected. Connect to a wireless connection or mobile data and try again.</string>
+    <string name="more">visit profile</string>
+    <string name="image">user image</string>
+    <string name="share">share</string>
+</resources>
